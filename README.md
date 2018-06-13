@@ -4,7 +4,7 @@
 ## Tools 函数确保每次输出的矩阵有序，使用到的类有以下五个：
 
   1) CompositeKey - 自定义组合键
-  2) myPartitioner - 自定义分组器
+  2) myPartitioner - 自定义分区器
   3) mySortComparator - 自定义比较器
   4) myGroupingComparator - 自定义分组器
   5) myReducer - 五个 Mapper 对应相同的 Reducer
